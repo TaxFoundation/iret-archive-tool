@@ -1,25 +1,18 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import List from './components/List';
+import data from './iret.json';
 
 class App extends Component {
+  state ={
+    searchTerms: ''
+  }
+
+  updateSearchTerms = (terms) => {this.setState({searchTerms: terms})}
+
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+        <List data={data} searchTerms={this.state.searchTerms}></List>
       </div>
     );
   }
