@@ -12,23 +12,40 @@ const indexName = 'iret';
 
 const searchClient = algoliasearch(appId, searchKey);
 
-const Link = styled.a`
-  display: block;
-  text-decoration: none;
+const StyledHits = styled(Hits)`
+  li {
+    list-style: none;
+  }
 `;
 
-const ConditionalLink = props =>
-  props.file ? (
-    <Link href={fileRoot + props.file} target="_blank" rel="noopener noreferrer">
-      {props.children}
-    </Link>
-  ) : (
-    <div>{props.children}</div>
-  );
+const StyledHit = styled.div`
+  background-color: #fff;
+  position: relative;
+  transition: background-color 0.2s ease-in-out;
+
+  &:hover {
+    background-color: #e6f4ff;
+  }
+
+  em.ais-Highlight-highlighted {
+    background-color: #0094ff;
+    color: #fff;
+  }
+`;
+
+const Link = styled.a`
+  bottom: 0;
+  display: block;
+  left: 0;
+  position: absolute;
+  right: 0;
+  text-decoration: none;
+  top: 0;
+`;
 
 const Entry = props => {
   return (
-    <ConditionalLink file={props.hit.file || false}>
+    <StyledHit style={{ position: 'relative' }}>
       <p>
         <Highlight attribute="title" hit={props.hit} />
       </p>
@@ -41,7 +58,8 @@ const Entry = props => {
       <p>
         <Highlight attribute="authors" hit={props.hit} />
       </p>
-    </ConditionalLink>
+      {props.hit.file ? <Link href={fileRoot + props.hit.file} rel="noopener noreferrer" target="_blank" /> : null}
+    </StyledHit>
   );
 };
 
@@ -50,7 +68,7 @@ class App extends Component {
     return (
       <InstantSearch searchClient={searchClient} indexName={indexName}>
         <SearchBox />
-        <Hits hitComponent={Entry} />
+        <StyledHits hitComponent={Entry} />
         <Pagination />
       </InstantSearch>
     );
