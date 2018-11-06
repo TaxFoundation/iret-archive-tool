@@ -16,6 +16,44 @@ const StyledApp = styled.div`
   font-family: 'Lato', sans-serif;
 `;
 
+const StyledSearch = styled(SearchBox)`
+  margin-bottom: 1rem;
+
+  input[type='search'] {
+    background: #fff;
+    border: solid 1px #ccc;
+    border-radius: 4px;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    padding: 0.5rem;
+
+    &:focus {
+      border: solid 1px #0094ff;
+      outline: none;
+    }
+  }
+
+  button[type='submit'],
+  button[type='reset'] {
+    background: #0094ff;
+    border: solid 1px #0094ff;
+    border-radius: 4px;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    padding: 0.5rem;
+
+    svg {
+      fill: #fff;
+    }
+
+    &:focus {
+      background-color: #e6f4ff;
+      border: solid 1px #e6f4ff;
+      outline: none;
+    }
+  }
+`;
+
 const StyledHits = styled(Hits)`
   ul,
   li {
@@ -106,7 +144,7 @@ class App extends Component {
     return (
       <StyledApp>
         <InstantSearch searchClient={searchClient} indexName={indexName}>
-          <SearchBox />
+          <StyledSearch />
           <StyledHits hitComponent={Entry} />
           <Pagination />
         </InstantSearch>
