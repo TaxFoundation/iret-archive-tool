@@ -3,7 +3,8 @@ import styled from 'styled-components';
 import algoliasearch from 'algoliasearch/lite';
 import Search from './components/Search';
 import { Entry, StyledHits } from './components/Hits';
-import { InstantSearch, Pagination } from 'react-instantsearch-dom';
+import Pagination from './components/Pagination';
+import { InstantSearch } from 'react-instantsearch-dom';
 // import List from './components/List';
 // import data from './iret.json';
 
