@@ -19,6 +19,12 @@ const StyledApp = styled.div`
 const StyledSearch = styled(SearchBox)`
   margin-bottom: 1rem;
 
+  form {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template: auto / 1fr 10% 10%;
+  }
+
   input[type='search'] {
     background: #fff;
     border: solid 1px #ccc;
