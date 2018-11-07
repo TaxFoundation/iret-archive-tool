@@ -27,10 +27,10 @@
     -->
   <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
   <script>
-    var pymChild = new pym.Child();
-    setTimeout(function () {
+    window.addEventListener('load', function () {
+      var pymChild = new pym.Child();
       pymChild.sendHeight();
-    }, 100);
+    });
   </script>
 </body>
 
