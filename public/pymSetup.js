@@ -1,3 +1,3 @@
 window.addEventListener('load', function() {
-  var pymParent = new pymParent('iret', 'https://upbeat-dubinsky-cd5ae5.netlify.com/index.html', {})
+  var pymParent = new pym.Parent('iret', 'https://upbeat-dubinsky-cd5ae5.netlify.com/index.html', {})
 });
