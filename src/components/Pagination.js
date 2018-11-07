@@ -14,7 +14,8 @@ const StyledPagination = styled(Pagination)`
     margin-right: 0.5rem;
   }
 
-  a, span {
+  a,
+  span.ais-Pagination-link {
     border-radius: 4px;
     border: solid 1px #ccc;
     text-decoration: none;
@@ -37,7 +38,6 @@ const StyledPagination = styled(Pagination)`
 
       &:hover {
         background: #0094ff;
-        border: 0px;
         cursor: default;
       }
     }
