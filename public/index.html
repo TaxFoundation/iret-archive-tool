@@ -5,6 +5,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <title>IRET Archive Tool</title>
+  <style>
+    html, body { width:auto; height:auto; }
+  </style>
 </head>
 
 <body>
@@ -25,6 +28,9 @@
   <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
   <script>
     var pymChild = new pym.Child();
+    setTimeout(function () {
+      pymChild.sendHeight();
+    }, 100);
   </script>
 </body>
 
