@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { Hits, Highlight } from 'react-instantsearch-dom';
+import Download from './Download';
 
 const fileRoot = 'https://files.taxfoundation.org/iret/';
 
@@ -49,6 +50,10 @@ export const StyledHits = styled(Hits)`
 
 export const StyledHit = styled.div`
   background-color: #fff;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: 48px 1fr;
+  align-items: center;
   padding: 0.5rem;
   position: relative;
   transition: background-color 0.2s ease-in-out;
@@ -69,21 +74,28 @@ export const StyledHit = styled.div`
 
 export const Entry = props => {
   return (
-    <StyledHit style={{ position: 'relative' }}>
-      <p>
-        <Highlight attribute="title" hit={props.hit} />
-      </p>
-      <p>
-        <em>
-          <Highlight attribute="subtitle" hit={props.hit} />
-        </em>
-      </p>
-      <p>
-        <Highlight attribute="authors" hit={props.hit} />
-      </p>
-      <p>
-        <Highlight attribute="date" hit={props.hit} />
-      </p>
+    <StyledHit>
+      {props.hit.file ? (
+        <Download style={{ justifySelf: 'center', height: '36px', width: '36px' }} />
+      ) : (
+        <div>&nbsp;</div>
+      )}
+      <div>
+        <p>
+          <em>
+            <Highlight attribute="subtitle" hit={props.hit} />
+          </em>
+        </p>
+        <p>
+          <Highlight attribute="title" hit={props.hit} />
+        </p>
+        <p>
+          <Highlight attribute="authors" hit={props.hit} />
+        </p>
+        <p>
+          <Highlight attribute="date" hit={props.hit} />
+        </p>
+      </div>
       {props.hit.file ? <Link href={fileRoot + props.hit.file} rel="noopener noreferrer" target="_blank" /> : null}
     </StyledHit>
   );
