@@ -3,24 +3,44 @@ import { Pagination } from 'react-instantsearch-dom';
 
 const StyledPagination = styled(Pagination)`
   ul {
-    display: grid;
-    grid-auto-flow: column;
-    list-style: none;
-    padding: 0;
+    margin: 3rem auto;
+    text-align: center;
+    list-style-type: none;
   }
 
   li {
-    padding: 0.5rem;
-    text-align: center;
-
-    &:hover {
-      background-color: #e6f4ff;
-    }
+    display: inline-block;
+    margin-bottom: 1rem;
+    margin-right: 0.5rem;
   }
 
-  a {
-    color: #0094ff;
+  a, span {
+    border-radius: 4px;
+    border: solid 1px #ccc;
     text-decoration: none;
+    padding: 0.5rem 0.8rem;
+    color: #888;
+    transition: all 0.2s ease-out;
+
+    &:hover {
+      color: #333;
+      background: #e6f4ff;
+      cursor: pointer;
+    }
+
+    &.ais-Pagination-link--selected {
+      color: white;
+      background: #0094ff;
+      border-radius: 4px;
+      border: 1px solid #0094ff;
+      transition: all 0.25s ease-out;
+
+      &:hover {
+        background: #0094ff;
+        border: 0px;
+        cursor: default;
+      }
+    }
   }
 `;
 
