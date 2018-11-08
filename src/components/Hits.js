@@ -51,11 +51,12 @@ export const StyledHits = styled(Hits)`
 
 export const StyledHit = styled.div`
   background-color: #fff;
+  color: #333;
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: 48px 1fr;
   align-items: center;
-  padding: 0.5rem;
+  padding: 1rem;
   position: relative;
   transition: background-color 0.2s ease-in-out;
 
@@ -74,17 +75,16 @@ export const StyledHit = styled.div`
 `;
 
 export const Entry = props => {
-  const formattedDate = new Date(props.hit.date).toLocaleDateString();
   return (
     <StyledHit>
       <Download style={{ justifySelf: 'center', height: '36px', width: '36px' }} />
       <div>
-        <h2 style={{ marginBottom: '0.5rem' }}>
+        <h2 style={{ margin: '0 0 0.5rem' }}>
           <Highlight attribute="title" hit={props.hit} />
         </h2>
-        <p>{PubTypes.find(type => type.id === props.hit.type)['name']}</p>
-        <p>
-          {formattedDate} by <Highlight attribute="authors" hit={props.hit} />
+        <p style={{ marginBottom: '0.5rem' }}>{PubTypes.find(type => type.id === props.hit.type)['name']}</p>
+        <p style={{ fontSize: '0.9rem', color: '#888' }}>
+          {props.hit.date} by <Highlight attribute="authors" hit={props.hit} />
         </p>
       </div>
       {props.hit.file ? <Link href={fileRoot + props.hit.file} rel="noopener noreferrer" target="_blank" /> : null}
