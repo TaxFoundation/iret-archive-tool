@@ -3,6 +3,7 @@ import styled from 'styled-components';
 import algoliasearch from 'algoliasearch/lite';
 import Search from './components/Search';
 import Refinement from './components/Refinement';
+import DropdownRefinement from './components/DropdownRefinement';
 import { Entry, StyledHits } from './components/Hits';
 import Pagination from './components/Pagination';
 import { InstantSearch, Configure } from 'react-instantsearch-dom';
@@ -45,11 +46,10 @@ class App extends Component {
           <div>
             <Refinement attribute="authors" searchable />
             <Refinement attribute="type" />
-            <Refinement
+            <DropdownRefinement
               attribute="year"
               limit={100}
               transformItems={items => {
-                console.log(items);
                 return items.sort((a, b) => +a.label - +b.label);
               }}
             />
