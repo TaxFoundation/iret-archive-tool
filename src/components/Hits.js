@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { Hits, Highlight } from 'react-instantsearch-dom';
 import Download from './Download';
+import { PubTypes } from '../config';
 
 const fileRoot = 'https://files.taxfoundation.org/iret/';
 
@@ -73,27 +74,17 @@ export const StyledHit = styled.div`
 `;
 
 export const Entry = props => {
+  const formattedDate = new Date(props.hit.date).toLocaleDateString();
   return (
     <StyledHit>
-      {props.hit.file ? (
-        <Download style={{ justifySelf: 'center', height: '36px', width: '36px' }} />
-      ) : (
-        <div>&nbsp;</div>
-      )}
+      <Download style={{ justifySelf: 'center', height: '36px', width: '36px' }} />
       <div>
-        <p>
-          <em>
-            <Highlight attribute="subtitle" hit={props.hit} />
-          </em>
-        </p>
-        <p>
+        <h2 style={{ marginBottom: '0.5rem' }}>
           <Highlight attribute="title" hit={props.hit} />
-        </p>
+        </h2>
+        <p>{PubTypes.find(type => type.id === props.hit.type)['name']}</p>
         <p>
-          <Highlight attribute="authors" hit={props.hit} />
-        </p>
-        <p>
-          <Highlight attribute="date" hit={props.hit} />
+          {formattedDate} by <Highlight attribute="authors" hit={props.hit} />
         </p>
       </div>
       {props.hit.file ? <Link href={fileRoot + props.hit.file} rel="noopener noreferrer" target="_blank" /> : null}
