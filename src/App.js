@@ -2,8 +2,7 @@ import React, { Component } from 'react';
 import styled from 'styled-components';
 import algoliasearch from 'algoliasearch/lite';
 import Search from './components/Search';
-import Refinement from './components/Refinement';
-import DropdownRefinement from './components/DropdownRefinement';
+import Refinements from './components/Refinements';
 import { Entry, StyledHits } from './components/Hits';
 import Pagination from './components/Pagination';
 import { InstantSearch, Configure } from 'react-instantsearch-dom';
@@ -43,19 +42,7 @@ class App extends Component {
         <InstantSearch searchClient={searchClient} indexName={indexName}>
           <Configure maxValuesPerFacet={50} />
           <Search />
-          <div>
-            <Refinement attribute="authors" searchable />
-            <Refinement attribute="type" />
-            <DropdownRefinement
-              attribute="year"
-              limit={100}
-              transformItems={items => {
-                return items.sort((a, b) => +a.label - +b.label);
-              }}
-            />
-            <Refinement attribute="categories" searchable />
-            <Refinement attribute="tags" searchable />
-          </div>
+          <Refinements />
           <StyledHits hitComponent={Entry} />
           <Pagination />
         </InstantSearch>
