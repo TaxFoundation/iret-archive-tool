@@ -1,3 +1,4 @@
+import React from 'react';
 import styled from 'styled-components';
 import { RefinementList } from 'react-instantsearch-dom';
 
@@ -23,13 +24,49 @@ const Refinement = styled(RefinementList)`
     }
   }
 
+  button[type='submit'] {
+    background: #0094ff;
+    border: solid 1px #0094ff;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
+    padding: 0.5rem;
+
+    svg {
+      fill: #fff;
+    }
+
+    &:focus {
+      background-color: #e6f4ff;
+      border: solid 1px #e6f4ff;
+      outline: none;
+    }
+  }
+
   ul {
     list-style: none;
     margin: 0;
     padding: 0;
   }
 
-  ${props => (props.style.gridArea ? `grid-area: ${props.style.gridArea};` : null)};
+  label {
+    display: grid;
+    grid-template-columns: 3rem 4fr 1fr;
+
+    .ais-RefinementList-count {
+      color: #888;
+      font-style: italic;
+      text-align: right;
+    }
+  }
 `;
 
-export default Refinement;
+const LabeledRefinement = props => (
+  <div style={props.style}>
+    <p style={{ fontWeight: 'bold', margin: '0 0 0.4rem', textAlign: 'center' }}>{props.label}</p>
+    <Refinement {...props} />
+  </div>
+);
+
+export default LabeledRefinement;

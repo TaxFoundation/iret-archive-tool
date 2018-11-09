@@ -29,6 +29,8 @@ const Search = styled(SearchBox)`
     background: #0094ff;
     border: solid 1px #0094ff;
     border-radius: 4px;
+    cursor: pointer;
+    display: block;
     font-family: 'Lato', sans-serif;
     font-size: 1rem;
     padding: 0.5rem;
@@ -42,6 +44,11 @@ const Search = styled(SearchBox)`
       border: solid 1px #e6f4ff;
       outline: none;
     }
+  }
+
+  button[hidden] {
+    background: #ccc;
+    border: 1px solid #ccc;
   }
 `;
 

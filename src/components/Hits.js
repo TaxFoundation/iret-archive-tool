@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import { Hits, Highlight } from 'react-instantsearch-dom';
 import Download from './Download';
-import { PubTypes } from '../config';
 
 const fileRoot = 'https://files.taxfoundation.org/iret/';
 
@@ -82,7 +81,7 @@ export const Entry = props => {
         <h2 style={{ margin: '0 0 0.5rem' }}>
           <Highlight attribute="title" hit={props.hit} />
         </h2>
-        <p style={{ marginBottom: '0.5rem' }}>{PubTypes.find(type => type.id === props.hit.type)['name']}</p>
+        <p style={{ marginBottom: '0.5rem' }}>{props.hit.type}</p>
         <p style={{ fontSize: '0.9rem', color: '#888' }}>
           {props.hit.date} by <Highlight attribute="authors" hit={props.hit} />
         </p>

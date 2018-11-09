@@ -21,23 +21,27 @@ const StyledSelect = styled.select`
   }
 
   option {
+    font-family: 'Lato', sans-serif;
     font-size: 0.9rem;
   }
 `;
 
 const DropdownRefinement = props => {
   return (
-    <StyledSelect style={props.style} value={props.currentRefinement[0]} onChange={e => props.refine(e.target.value)}>
-      <option value="" style={{ color: '#888', fontStyle: 'italic' }}>
-        Select {props.label}
-        ...
-      </option>
-      {props.items.map(item => (
-        <option key={item.label} value={item.label}>
-          {item.label}
+    <div style={props.style}>
+      <p style={{ fontWeight: 'bold', margin: '0 0 0.4rem', textAlign: 'center' }}>{props.label}</p>
+      <StyledSelect value={props.currentRefinement[0]} onChange={e => props.refine(e.target.value)}>
+        <option value="" style={{ color: '#888', fontStyle: 'italic' }}>
+          Select {props.label}
+          ...
         </option>
-      ))}
-    </StyledSelect>
+        {props.items.map(item => (
+          <option key={item.label} value={item.label}>
+            {item.label}
+          </option>
+        ))}
+      </StyledSelect>
+    </div>
   );
 };
 
