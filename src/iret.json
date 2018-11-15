@@ -5910,5 +5910,91 @@
     "tags": [
       "Business Tax Expenditures, Credits, and Deductions"
     ]
+  },
+  {
+    "title": "The Inflow Outflow Tax: A Saving-Deferred Neutral Tax System",
+    "date": "1998",
+    "year": 1998,
+    "authors": [
+      "Norman B. Ture",
+      "Stephen J. Entin"
+    ],
+    "file": "inflow_outflow",
+    "type": "Book",
+    "categories": ["Individual Income and Payroll Taxes"],
+    "tags": null
+  },
+  {
+    "title": "Taxes and the Good Society",
+    "date": "September 13, 1995",
+    "year": 1995,
+    "authors": [
+      "Norman B. Ture"
+    ],
+    "file": "TaxesGoodSoc",
+    "type": "Book",
+    "categories": null,
+    "tags": null
+  },
+  {
+    "title": "Federal Tax Policy and the U.S. Economy; Policy Options for Improving Both",
+    "date": "March 13, 1997",
+    "year": 1997,
+    "authors": [
+      "Norman B. Ture"
+    ],
+    "file": "FedTaxPol-Improv",
+    "type": "Book",
+    "categories": null,
+    "tags": null
+  },
+  {
+    "title": "The Economics of Taxation and the Issue of Tax Reform",
+    "date": "April 16-19, 2009",
+    "year": 2009,
+    "authors": [
+      "Stephen J. Entin"
+    ],
+    "file": "New_Orleans_(2009)",
+    "type": "Book",
+    "categories": null,
+    "tags": null
+  },
+  {
+    "title": "Reforming Taxation: Advantages of a Saving-Consumption Neutral Tax Base, And Principles to Guide Reform",
+    "date": "February 16, 2005",
+    "year": 2005,
+    "authors": [
+      "Stephen J. Entin"
+    ],
+    "file": "TAX-RFM",
+    "type": "Book",
+    "categories": null,
+    "tags": null
+  },
+  {
+    "title": "Essays in Supply Side Economics",
+    "date": "1982",
+    "year": 1982,
+    "authors": [
+      "David G. Raboy",
+      "Norman B. Ture"
+    ],
+    "file": "SupplySideBook",
+    "type": "Book",
+    "categories": null,
+    "tags": null
+  },
+  {
+    "title": "",
+    "date": "March 13, 1997",
+    "year": 1997,
+    "authors": [
+      "Norman B. Ture"
+    ],
+    "file": "FedTaxPol-Improv",
+    "type": "Book",
+    "categories": null,
+    "tags": null
   }
 ]
