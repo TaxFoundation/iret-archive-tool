@@ -86,7 +86,9 @@ export const Entry = props => {
           {props.hit.date} by <Highlight attribute="authors" hit={props.hit} />
         </p>
       </div>
-      {props.hit.file ? <Link href={fileRoot + props.hit.file} rel="noopener noreferrer" target="_blank" /> : null}
+      {props.hit.file ? (
+        <Link href={fileRoot + props.hit.file + '.PDF'} rel="noopener noreferrer" target="_blank" />
+      ) : null}
     </StyledHit>
   );
 };
