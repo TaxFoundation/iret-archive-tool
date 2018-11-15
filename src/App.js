@@ -6,8 +6,6 @@ import Refinements from './components/Refinements';
 import { Entry, StyledHits } from './components/Hits';
 import Pagination from './components/Pagination';
 import { InstantSearch, Configure } from 'react-instantsearch-dom';
-// import List from './components/List';
-// import data from './iret.json';
 
 const appId = 'F69DU4TWEG';
 const searchKey = '38ec08d7e6bb2135f28503d3a806db71';
@@ -21,22 +19,6 @@ const StyledApp = styled.div`
 
 class App extends Component {
   render() {
-    // const dataFormatted = data.map(d => {
-    //   const authors = d.authors.split(', ');
-    //   const tags = d.tags.split(', ');
-    //   const cats = d.categories.split(', ');
-    //   return {
-    //     title: d.title,
-    //     date: d.date,
-    //     year: d.year,
-    //     authors,
-    //     file: d.file,
-    //     type: d.type,
-    //     cats,
-    //     tags,
-    //   };
-    // });
-    // console.log(dataFormatted);
     return (
       <StyledApp>
         <InstantSearch searchClient={searchClient} indexName={indexName}>
