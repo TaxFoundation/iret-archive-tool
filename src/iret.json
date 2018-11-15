@@ -5986,13 +5986,38 @@
     "tags": null
   },
   {
-    "title": "",
-    "date": "March 13, 1997",
-    "year": 1997,
+    "title": "The Effect Of The Capital Gains Tax Rate On Economic Activity And Total Tax Revenue",
+    "date": "October 9, 2009",
+    "year": 2009,
     "authors": [
-      "Norman B. Ture"
+      "Stephen J. Entin"
     ],
-    "file": "FedTaxPol-Improv",
+    "file": "CapitalGains-1",
+    "type": "Book",
+    "categories": null,
+    "tags": null
+  },
+  {
+    "title": "The Relationship Between Realized Capital Gains And Their Marginal Rate Of Taxation, 1976-2004",
+    "date": "October 9, 2009",
+    "year": 2009,
+    "authors": [
+      "Dr. Paul Evans",
+      "Stephen J. Entin"
+    ],
+    "file": "CapitalGains-2",
+    "type": "Book",
+    "categories": null,
+    "tags": null
+  },
+  {
+    "title": "Revenue Estimation Of Capital Gains Needs Improvement",
+    "date": "November 9, 2009",
+    "year": 2009,
+    "authors": [
+      "Stephen J. Entin"
+    ],
+    "file": "CapitalGains-3",
     "type": "Book",
     "categories": null,
     "tags": null
