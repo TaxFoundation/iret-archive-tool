@@ -44,6 +44,10 @@ const Refinement = styled(RefinementList)`
     }
   }
 
+  button[type='reset'] {
+    display: none !important;
+  }
+
   ul {
     list-style: none;
     margin: 0;
@@ -53,6 +57,11 @@ const Refinement = styled(RefinementList)`
   label {
     display: grid;
     grid-template-columns: 3rem 4fr 1fr;
+
+    input[type='checkbox'] {
+      height: 1rem;
+      width: 1rem;
+    }
 
     .ais-RefinementList-count {
       color: #888;
