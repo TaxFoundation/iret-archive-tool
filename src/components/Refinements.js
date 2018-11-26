@@ -4,6 +4,8 @@ import DropdownRefinement from './DropdownRefinement';
 import Refinement from './Refinement';
 
 const StyledRefinements = styled.div`
+  background-color: #e6f4ff;
+  border-radius: 4px;
   display: grid;
   grid-gap: 1rem;
   grid-template-areas:
@@ -13,6 +15,7 @@ const StyledRefinements = styled.div`
     'categories'
     'tags';
   margin-bottom: 1rem;
+  padding: 1rem;
 
   @media screen and (min-width: 600px) {
     grid-template-columns: repeat(6, 1fr);
