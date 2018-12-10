@@ -18,6 +18,10 @@ const searchClient = algoliasearch(appId, searchKey);
 
 const StyledApp = styled.div`
   font-family: 'Lato', sans-serif;
+
+  * {
+    box-sizing: border-box;
+  }
 `;
 
 const Features = styled.ul`
