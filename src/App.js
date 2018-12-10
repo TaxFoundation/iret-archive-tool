@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import styled from 'styled-components';
+import React, { Component, Fragment } from 'react';
+import styled, { createGlobalStyle } from 'styled-components';
 import algoliasearch from 'algoliasearch/lite';
 import { InstantSearch, Configure } from 'react-instantsearch-dom';
 
@@ -16,8 +16,10 @@ const indexName = 'iret';
 
 const searchClient = algoliasearch(appId, searchKey);
 
-const StyledApp = styled.div`
-  font-family: 'Lato', sans-serif;
+const StyledApp = createGlobalStyle`
+  body {
+    font-family: 'Lato', sans-serif;
+  }
 
   * {
     box-sizing: border-box;
@@ -46,13 +48,14 @@ const HR = styled.hr`
 class App extends Component {
   render() {
     return (
-      <StyledApp>
+      <Fragment>
+        <StyledApp />
         <InstantSearch searchClient={searchClient} indexName={indexName}>
           <div>
             <h2 style={{ textAlign: 'center' }}>Featured IRET Research</h2>
             <Features>
               {featured.map(f => (
-                <Feature {...f} />
+                <Feature key={`feature-${f.file}`} {...f} />
               ))}
             </Features>
           </div>
@@ -66,7 +69,7 @@ class App extends Component {
             <Pagination />
           </div>
         </InstantSearch>
-      </StyledApp>
+      </Fragment>
     );
   }
 }

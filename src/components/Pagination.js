@@ -3,7 +3,7 @@ import { Pagination } from 'react-instantsearch-dom';
 
 const StyledPagination = styled(Pagination)`
   ul {
-    margin: 3rem auto;
+    margin: 3rem auto 0;
     text-align: center;
     list-style-type: none;
   }
