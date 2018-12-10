@@ -33,6 +33,7 @@ const Features = styled.ul`
   grid-gap: 1rem;
   grid-template: auto / 1fr;
   list-style: none;
+  padding: 0;
 
   @media screen and (min-width: 600px) {
     grid-template: repeat(2, auto) / repeat(3, 1fr);
