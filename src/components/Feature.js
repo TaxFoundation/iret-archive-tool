@@ -43,7 +43,7 @@ const Info = styled.div`
 const Feature = props => {
   return (
     <StyledFeature>
-      <img src={props.picture} style={{ height: '100%', margin: 0, objectFit: 'cover', width: '100%' }} />
+      <img alt="" src={props.picture} style={{ height: '100%', margin: 0, objectFit: 'cover', width: '100%' }} />
       <Info>
         <h3 style={{ margin: '0 0 0.5rem' }}>{props.title}</h3>
         <p style={{ fontSize: '0.9rem', color: '#888' }}>
