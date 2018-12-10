@@ -9,7 +9,8 @@
     "file": "inflow_outflow",
     "type": "Book",
     "categories": ["Individual Income and Payroll Taxes"],
-    "tags": null
+    "tags": null,
+    "picture": "https://files.taxfoundation.org/20170111174757/US_Capitol2-150x150.jpg"
   },
   {
     "title": "Tax Incidence, Tax Burden, And Tax Shifting: Who Really Pays The Tax?",
@@ -23,7 +24,8 @@
     "categories": [
       "Individual and Consumption Taxes"
     ],
-    "tags": null
+    "tags": null,
+    "picture": "https://files.taxfoundation.org/20181210124128/AdobeStock_58368809-150x150.jpeg"
   },
   {
     "title": "Economic Consequences Of The Tax Policies Of The Kennedy And Johnson Administrations",
@@ -41,7 +43,8 @@
     "tags": [
       "Kennedy Tax Cuts",
       "Johnson surtax"
-    ]
+    ],
+    "picture": "https://files.taxfoundation.org/20181210124554/JFK-economics-150x150.jpg"
   },
   {
     "title": "The Reagan Era Tax Policies",
@@ -58,7 +61,8 @@
     ],
     "tags": [
       "Tax Reform Act Of 1986"
-    ]
+    ],
+    "picture": "https://files.taxfoundation.org/20181210124920/Reagan-150x150.jpg"
   },
   {
     "title": "Tax Reform Options: What Changes Would Generate the Greatest Growth for the Money",
@@ -79,7 +83,8 @@
     ],
     "tags": [
       "Testimony"
-    ]
+    ],
+    "picture": "https://files.taxfoundation.org/20181210125134/AdobeStock_81208524-1-150x150.jpeg"
   },
   {
     "title": "Deficits, Tax Cuts, Interest Rates And Investment (Part II)",
@@ -97,6 +102,7 @@
     ],
     "tags": [
       "Job Creation"
-    ]
+    ],
+    "picture": "https://files.taxfoundation.org/20181210125337/AdobeStock_82143769-150x150.jpeg"
   }
 ]

@@ -18,9 +18,14 @@ const StyledFeature = styled.li`
   border: 1px solid #ccc;
   border-radius: 4px;
   color: #333;
-  padding: 1rem;
+  display: grid;
+  grid-template: auto / minmax(50px, 150px) 1fr;
   position: relative;
   transition: background-color 0.2s ease-in-out;
+
+  @media screen and (min-width: 600px) and (max-width: 1024px) {
+    grid-template: 150px auto / 1fr;
+  }
 
   &:hover {
     background-color: #e6f4ff;
@@ -32,14 +37,13 @@ const StyledFeature = styled.li`
 `;
 
 const Info = styled.div`
-  display: grid;
-  grid-template-rows: 1fr auto;
-  height: 100%;
+  padding: 1rem;
 `;
 
 const Feature = props => {
   return (
     <StyledFeature>
+      <img src={props.picture} style={{ height: '100%', margin: 0, objectFit: 'cover', width: '100%' }} />
       <Info>
         <h3 style={{ margin: '0 0 0.5rem' }}>{props.title}</h3>
         <p style={{ fontSize: '0.9rem', color: '#888' }}>
