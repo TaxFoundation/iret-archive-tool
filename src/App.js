@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import styled from 'styled-components';
 import algoliasearch from 'algoliasearch/lite';
 import { InstantSearch, Configure } from 'react-instantsearch-dom';
-import pym from 'pym.js';
 
 import featured from './featured.json';
 import Feature from './components/Feature';
@@ -45,15 +44,6 @@ const HR = styled.hr`
 `;
 
 class App extends Component {
-  onComponentDidMount() {
-    window.addEventListener('load', function() {
-      const pymChild = new pym.Child({
-        polling: 25,
-      });
-      pymChild.sendHeight();
-    });
-  }
-
   render() {
     return (
       <StyledApp>
@@ -62,7 +52,7 @@ class App extends Component {
             <h2 style={{ textAlign: 'center' }}>Featured IRET Research</h2>
             <Features>
               {featured.map(f => (
-                <Feature key={`feature-${f.file}`} {...f} />
+                <Feature {...f} />
               ))}
             </Features>
           </div>
