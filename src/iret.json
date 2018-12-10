@@ -41,23 +41,6 @@
     ]
   },
   {
-    "title": "The Reagan Era Tax Policies",
-    "date": "November 11, 2011",
-    "year": 2011,
-    "authors": [
-      "Stephen J. Entin"
-    ],
-    "file": "BLTN-102",
-    "type": "IRET Bulletin",
-    "categories": [
-      "Individual and Consumption Taxes",
-      "Business Taxes"
-    ],
-    "tags": [
-      "Tax Reform Act Of 1986"
-    ]
-  },
-  {
     "title": "The Nixon, Ford, And Carter Era Tax Policies",
     "date": "November 1, 2011",
     "year": 2011,
@@ -86,24 +69,6 @@
       "Business Taxes"
     ],
     "tags": null
-  },
-  {
-    "title": "Economic Consequences Of The Tax Policies Of The Kennedy And Johnson Administrations",
-    "date": "September 6, 2011",
-    "year": 2011,
-    "authors": [
-      "Stephen J. Entin"
-    ],
-    "file": "BLTN-99",
-    "type": "IRET Bulletin",
-    "categories": [
-      "Individual and Consumption Taxes",
-      "Business Taxes"
-    ],
-    "tags": [
-      "Kennedy Tax Cuts",
-      "Johnson surtax"
-    ]
   },
   {
     "title": "Monetary Policy'Conventional And Unconventional; Taming The Financial Crisis",
@@ -1327,27 +1292,6 @@
     ]
   },
   {
-    "title": "Testimony of Stephen J. Entin before the Joint Economic Committee, Hearing on \"Tax Reform Options: What Changes Would Generate the Greatest Growth for the Money",
-    "date": "November 17, 2011",
-    "year": 2011,
-    "authors": [
-      "Stephen J. Entin"
-    ],
-    "file": "ADVS-280",
-    "type": "Congressional Advisory",
-    "categories": [
-      "Business Taxes",
-      "Cost Recovery",
-      "Corporate Income Taxes",
-      "Individual and Consumption Taxes",
-      "Estate and Gift Taxes",
-      "Individual Income and Payroll Taxes"
-    ],
-    "tags": [
-      "Testimony"
-    ]
-  },
-  {
     "title": "The Postal Service's Financial Plight And The U.S. Credit Downgrade",
     "date": "September 22, 2011",
     "year": 2011,
@@ -2065,7 +2009,7 @@
     "type": "Congressional Advisory",
     "categories": [
       "Individual and Consumption Taxes",
-      "Individual Capital Gains and Dividend Taxes"
+      "Individual Capital Gains and Dividends Taxes"
     ],
     "tags": null
   },
@@ -2467,7 +2411,7 @@
     "type": "Congressional Advisory",
     "categories": [
       "Individual and Consumption Taxes",
-      "Individual Capital Gains and Dividend Taxes",
+      "Individual Capital Gains and Dividends Taxes",
       "Business Taxes",
       "Cost Recovery",
       "Corporate Income Tax"
@@ -2694,7 +2638,7 @@
     "type": "Congressional Advisory",
     "categories": [
       "Individual and Consumption Taxes",
-      "Individual Capital Gains and Dividend Taxes"
+      "Individual Capital Gains and Dividends Taxes"
     ],
     "tags": [
       "Retirement Savings"
@@ -3461,24 +3405,6 @@
     ]
   },
   {
-    "title": "Deficits, Tax Cuts, Interest Rates And Investment (Part II)",
-    "date": "November 8, 2002",
-    "year": 2002,
-    "authors": [
-      "Stephen J. Entin",
-      "Dr. Paul Evans"
-    ],
-    "file": "ADVS-140",
-    "type": "Congressional Advisory",
-    "categories": [
-      "Individual and Consumption Taxes",
-      "Business Taxes"
-    ],
-    "tags": [
-      "Job Creation"
-    ]
-  },
-  {
     "title": "Does First-Class Mail Carry Too Much Overhead?",
     "date": "November 13, 2002",
     "year": 2002,
@@ -3616,7 +3542,7 @@
     "type": "Congressional Advisory",
     "categories": [
       "Individual and Consumption Taxes",
-      "Individual Capital Gains and Dividend Taxes"
+      "Individual Capital Gains and Dividends Taxes"
     ],
     "tags": [
       "Retirement Savings"
@@ -4072,7 +3998,7 @@
     "type": "Congressional Advisory",
     "categories": [
       "Individual and Consumption Taxes",
-      "Individual Capital Gains and Dividend Taxes",
+      "Individual Capital Gains and Dividends Taxes",
       "Individual Tax Expenditures, Credits, and Deductions",
       "Estate and Gift Taxes"
     ],
@@ -4221,7 +4147,7 @@
     "type": "Congressional Advisory",
     "categories": [
       "Individual and Consumption Taxes",
-      "Individual Capital Gains and Dividend Taxes"
+      "Individual Capital Gains and Dividends Taxes"
     ],
     "tags": null
   },
@@ -4295,7 +4221,7 @@
     "type": "Congressional Advisory",
     "categories": [
       "Individual and Consumption Taxes",
-      "Individual Capital Gains and Dividend Taxes"
+      "Individual Capital Gains and Dividends Taxes"
     ],
     "tags": [
       "Monetary Policy"
@@ -5310,7 +5236,7 @@
     "type": "Congressional Advisory",
     "categories": [
       "Individual and Consumption Taxes",
-      "Individual Capital Gains and Dividend Taxes"
+      "Individual Capital Gains and Dividends Taxes"
     ],
     "tags": [
       "Affordable Care Act"
@@ -5966,7 +5892,19 @@
       "Stephen J. Entin"
     ],
     "file": "CapitalGains-3",
-    "type": "Book",
+    "type": "Dynamic Tax Analysis Series: Capital Gains",
+    "categories": null,
+    "tags": null
+  },
+  {
+    "title": "The Effect Of The Capital Gains Tax Rate On Economic Activity And Total Tax Revenue",
+    "date": "October 9, 2009",
+    "year": 2009,
+    "authors": [
+      "Stephen J. Entin"
+    ],
+    "file": "CapitalGains-1",
+    "type": "Dynamic Tax Analysis Series: Capital Gains",
     "categories": null,
     "tags": null
   },
@@ -5979,21 +5917,83 @@
       "Stephen J. Entin"
     ],
     "file": "CapitalGains-2",
-    "type": "Book",
+    "type": "Dynamic Tax Analysis Series: Capital Gains",
     "categories": null,
     "tags": null
   },
   {
-    "title": "The Effect Of The Capital Gains Tax Rate On Economic Activity And Total Tax Revenue",
-    "date": "October 9, 2009",
-    "year": 2009,
+    "title": "Deficits, Tax Cuts, Interest Rates And Investment (Part II)",
+    "date": "November 8, 2002",
+    "year": 2002,
+    "authors": [
+      "Stephen J. Entin",
+      "Dr. Paul Evans"
+    ],
+    "file": "ADVS-140",
+    "type": "Congressional Advisory",
+    "categories": [
+      "Individual and Consumption Taxes",
+      "Business Taxes"
+    ],
+    "tags": [
+      "Job Creation"
+    ]
+  },
+  {
+    "title": "Testimony of Stephen J. Entin before the Joint Economic Committee, Hearing on \"Tax Reform Options: What Changes Would Generate the Greatest Growth for the Money",
+    "date": "November 17, 2011",
+    "year": 2011,
     "authors": [
       "Stephen J. Entin"
     ],
-    "file": "CapitalGains-1",
-    "type": "Book",
-    "categories": null,
-    "tags": null
+    "file": "ADVS-280",
+    "type": "Congressional Advisory",
+    "categories": [
+      "Business Taxes",
+      "Cost Recovery",
+      "Corporate Income Taxes",
+      "Individual and Consumption Taxes",
+      "Estate and Gift Taxes",
+      "Individual Income and Payroll Taxes"
+    ],
+    "tags": [
+      "Testimony"
+    ]
+  },
+  {
+    "title": "The Reagan Era Tax Policies",
+    "date": "November 11, 2011",
+    "year": 2011,
+    "authors": [
+      "Stephen J. Entin"
+    ],
+    "file": "BLTN-102",
+    "type": "IRET Bulletin",
+    "categories": [
+      "Individual and Consumption Taxes",
+      "Business Taxes"
+    ],
+    "tags": [
+      "Tax Reform Act Of 1986"
+    ]
+  },
+  {
+    "title": "Economic Consequences Of The Tax Policies Of The Kennedy And Johnson Administrations",
+    "date": "September 6, 2011",
+    "year": 2011,
+    "authors": [
+      "Stephen J. Entin"
+    ],
+    "file": "BLTN-99",
+    "type": "IRET Bulletin",
+    "categories": [
+      "Individual and Consumption Taxes",
+      "Business Taxes"
+    ],
+    "tags": [
+      "Kennedy Tax Cuts",
+      "Johnson surtax"
+    ]
   },
   {
     "title": "Tax Incidence, Tax Burden, And Tax Shifting: Who Really Pays The Tax?",
