@@ -23,7 +23,7 @@ const StyledFeature = styled.li`
   position: relative;
   transition: background-color 0.2s ease-in-out;
 
-  @media screen and (min-width: 600px) and (max-width: 1024px) {
+  @media screen and (min-width: 600px) {
     grid-template: 150px auto / 1fr;
   }
 
