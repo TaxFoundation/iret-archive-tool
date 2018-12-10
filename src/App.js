@@ -43,25 +43,25 @@ class App extends Component {
   render() {
     return (
       <StyledApp>
-        <div>
-          <h2 style={{ textAlign: 'center' }}>Featured IRET Research</h2>
-          <Features>
-            {featured.map(f => (
-              <Feature {...f} />
-            ))}
-          </Features>
-        </div>
-        <HR />
-        <div>
-          <h2 style={{ textAlign: 'center' }}>Search the IRET Archives</h2>
-          <InstantSearch searchClient={searchClient} indexName={indexName}>
+        <InstantSearch searchClient={searchClient} indexName={indexName}>
+          <div>
+            <h2 style={{ textAlign: 'center' }}>Featured IRET Research</h2>
+            <Features>
+              {featured.map(f => (
+                <Feature {...f} />
+              ))}
+            </Features>
+          </div>
+          <HR />
+          <div>
+            <h2 style={{ textAlign: 'center' }}>Search the IRET Archives</h2>
             <Configure maxValuesPerFacet={50} />
             <Search />
             <Refinements />
             <StyledHits hitComponent={Entry} />
             <Pagination />
-          </InstantSearch>
-        </div>
+          </div>
+        </InstantSearch>
       </StyledApp>
     );
   }
