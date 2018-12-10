@@ -17,8 +17,10 @@ const indexName = 'iret';
 const searchClient = algoliasearch(appId, searchKey);
 
 const StyledApp = createGlobalStyle`
-  body {
+  html, body {
     font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
   }
 
   * {
@@ -52,7 +54,7 @@ class App extends Component {
         <StyledApp />
         <InstantSearch searchClient={searchClient} indexName={indexName}>
           <div>
-            <h2 style={{ textAlign: 'center' }}>Featured IRET Research</h2>
+            <h2 style={{ marginTop: 0, textAlign: 'center' }}>Featured IRET Research</h2>
             <Features>
               {featured.map(f => (
                 <Feature key={`feature-${f.file}`} {...f} />
