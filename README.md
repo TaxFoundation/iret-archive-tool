@@ -1,3 +1,7 @@
+# IRET Archive Tool
+
+This project allows users to search the archives from iret.org. The [JSON file](https://github.com/TaxFoundation/iret-archive-tool/blob/master/src/iret.json) of titles and metadata is uploaded to [this Algolia index](https://www.algolia.com/apps/F69DU4TWEG/explorer/browse/iret?searchMode=search) to create a searchable database.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
