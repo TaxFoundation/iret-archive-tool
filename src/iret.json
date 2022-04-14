@@ -6021,5 +6021,1974 @@
     "type": "Book",
     "categories": ["Individual Income and Payroll Taxes"],
     "tags": null
-  }
+  },
+  {
+    "title": "The Next Tax Bill?",
+    "date": "1982",
+    "year": 1982,
+    "authors": "David G. Raboy",
+    "file": "Bulletin-01",
+    "type": "IRET Bulletin",
+    "tags": [
+      "Monetary Policy",
+      "Federal Budge"
+    ]
+  },
+  {
+    "title": "H.R. 11 -- R.I.P.",
+    "date": "September 18, 1992",
+    "year": 1992,
+    "authors": [
+       "Stephen J. Entin",
+       "Michael A. Schuyler"
+    ],
+    "file": "ADVS-10",
+    "type": "Congressional Advisory",
+    "categories": [
+       "Individual Capital Gains and Dividends Taxes",
+       "Individual Capital Gains and Dividends"
+    ],
+    "tags": [
+       "Business Tax Expenditures, Credits, and Deductions",
+       "Pro-Growth"
+    ]
+ },
+  {
+    "title": "Let's Have A Sunset Trigger For Health Insurance Legislation",
+    "date": "August 10, 1994",
+    "year": 1994,
+    "authors": [
+       "Michael A. Schuyler",
+       "Tax Triggers"
+    ],
+    "file": "ADVS-36",
+    "type": "Congressional Advisory",
+    "categories": [
+       "Individual Income and Payroll Taxes",
+       "Individual Tax Expenditures, Credits, and Deductions",
+       "Credits"
+    ],
+    "tags": [
+       "Health Care",
+       "Health Insurance",
+       "Health Care Tax Deduction"
+    ]
+ },
+  {
+    "title": "Private Saving Vs. Social Security: Many Happier Returns",
+    "date": "September 4, 1996",
+    "year": 1996,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "ADVS-56",
+    "type": "Congressional Advisory",
+    "categories": [
+       "Individual and Payroll Taxes",
+       "Social Security",
+       "Retirement Savings"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Growth Elements in the Ashcroft Fair Tax Proposal",
+    "date": "September 15, 1998",
+    "year": 1998,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "Ashcroft Fair Tax Proposal - growth - summary -score",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Individual and Consumption Taxes",
+       "Corporate Income Taxes"
+    ],
+    "tags": [
+       "Business Tax Expenditures, Credits, and Deductions",
+       "Flat Tax",
+       "Individual Income and Payroll Taxes"
+    ]
+ },
+  {
+    "title": "The Next Tax Bill?",
+    "date": "October 1, 1982",
+    "year": 1982,
+    "authors": [
+       "David G. Raboy"
+    ],
+    "file": "Bulletin-01",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Monetary Policy",
+       "Federal Budget"
+    ]
+ },
+  {
+    "title": "Who Caused the Panic of 1837-- And the Recession of 1981?",
+    "date": "October 15, 1982",
+    "year": 1982,
+    "authors": [
+       "David G. Raboy"
+    ],
+    "file": "Bulletin-02",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Monetary Policy",
+       "Pro-Growth"
+    ]
+ },
+  {
+    "title": "Is the Fed Loosening? Should the Fed Loosen?",
+    "date": "November 18, 1982",
+    "year": 1982,
+    "authors": [
+       "David G. Raboy"
+    ],
+    "file": "Bulletin-03",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Monetary Policy"
+    ]
+ },
+  {
+    "title": "Killing the Golden Goose: The Windfall Profits Tax and Small Royalty Owners",
+    "date": "November 23, 1982",
+    "year": 1982,
+    "authors": [
+       "Milton Copulos"
+    ],
+    "file": "Bulletin-04",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Oil and Gas Taxes",
+       "Oil, Gas, and Transportation Taxes"
+    ],
+    "tags": [
+       "Environment and Energy Taxes",
+       "Windfall Profits Tax"
+    ]
+ },
+  {
+    "title": "The Fed's New Inflationary Policy",
+    "date": "January 11, 1983",
+    "year": 1983,
+    "authors": [
+       "David G. Raboy"
+    ],
+    "file": "Bulletin-05",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Inflation",
+       "Consumer Behavior",
+       "Federal Reserve"
+    ]
+ },
+  {
+    "title": "The Contingency Tax Plan -- Wreaking Havoc With Business Planning",
+    "date": "January 18, 1983",
+    "year": 1983,
+    "authors": [
+       "David G. Raboy"
+    ],
+    "file": "Bulletin-06",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "crowd out",
+       "Monetary Policy"
+    ]
+ },
+  {
+    "title": "The Rostenkowski Tax Reduction \"Freeze\" Proposal",
+    "date": "February 11, 1983",
+    "year": 1983,
+    "authors": [
+       "David G. Raboy"
+    ],
+    "file": "Bulletin-07",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Estate and Gift Taxes",
+       "Excise Taxes"
+    ],
+    "tags": [
+       "Savings"
+    ]
+ },
+  {
+    "title": "I. The Bottom Line on the Budget Process",
+    "date": "April 18, 1983",
+    "year": 1983,
+    "authors": [
+       "Michael Schuyler"
+    ],
+    "file": "Bulletin-08",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "Opec",
+       "Federal Spending",
+       "Social Security"
+    ]
+ },
+  {
+    "title": "The $700 Cap Proposal: Inefficient, Inequitable and Only $297 For A Single Taxpayer in 1983.",
+    "date": "June 27, 1983",
+    "year": 1983,
+    "authors": [
+       "Michael Schuyler",
+       "Bragi Valgeirsson"
+    ],
+    "file": "Bulletin-09",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Individual Tax Expenditures, Credits, and Deductions",
+       "High-Income Taxpayers, Progressivity, and Inequality"
+    ],
+    "tags": [
+       "IRS",
+       "Individual Deduction"
+    ]
+ },
+  {
+    "title": "The Elusive Connection Between Deficits and The Real Interest Rate",
+    "date": "August 3, 1983",
+    "year": 1983,
+    "authors": [
+       "Michael Schuyler"
+    ],
+    "file": "Bulletin-10",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Federal Budget",
+       "Interest Rates",
+       "Monetary Policy"
+    ]
+ },
+  {
+    "title": "A Little More On Crowding Out",
+    "date": "September 12, 1983",
+    "year": 1983,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Bulletin-11",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "crowd out",
+       "Savings"
+    ]
+ },
+  {
+    "title": "TEFRA II: The Dole Budget Proposal",
+    "date": "October 31, 1983",
+    "year": 1983,
+    "authors": [
+       "Michael A. Schuyler"
+    ],
+    "file": "Bulletin-12",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Federal Spending",
+       "Federal Budget"
+    ]
+ },
+  {
+    "title": "The Anatomy of This Recovery: No Case For Tax Hikes",
+    "date": "March 2, 1984",
+    "year": 1984,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Bulletin-13",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Taxes and The Economy",
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "crowd out",
+       "Interest Rates"
+    ]
+ },
+  {
+    "title": "Painless Tax Increases: An Election Year Fiscal Strategy",
+    "date": "April 27, 1984",
+    "year": 1984,
+    "authors": [
+       "Karah Henry"
+    ],
+    "file": "Bulletin-14",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Federal Spending",
+       "Federal Budget"
+    ]
+ },
+  {
+    "title": "Revenue Raising--At What Cost?",
+    "date": "June 14, 1984",
+    "year": 1984,
+    "authors": [
+       "IRET Staff"
+    ],
+    "file": "Bulletin-15",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Taxes and the Economy",
+       "Excise Taxes",
+       "Estate and Gift Taxes"
+    ],
+    "tags": [
+       "Savings",
+       "Federal Spending",
+       "Federal Budget"
+    ]
+ },
+  {
+    "title": "The Not-So-Level Playing Field of Revenue Neutrality",
+    "date": "July 26, 1984",
+    "year": 1984,
+    "authors": [
+       "Kenneth D. Simonson"
+    ],
+    "file": "Bulletin-16",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Business Taxes Compliance and Complexity"
+    ],
+    "tags": [
+       "Neutrality",
+       "Base Broadening"
+    ]
+ },
+  {
+    "title": "The Misdirected Debate on the \"Fairness\" of the 1981 Tax Reductions",
+    "date": "August 1, 1984",
+    "year": 1984,
+    "authors": [
+       "Michael Schuyler"
+    ],
+    "file": "Bulletin-17",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Rate Reduction",
+       "Progressivity"
+    ]
+ },
+  {
+    "title": "ACRS, Economic Depreciation, And Investment in Real Estate",
+    "date": "January 4, 1985",
+    "year": 1985,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "Bulletin-18",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Business Property Taxes"
+    ],
+    "tags": [
+       "Neutrality"
+    ]
+ },
+  {
+    "title": "Treasury I's Retrograde Proposal For Taxing Capital Gains",
+    "date": "April 25, 1985",
+    "year": 1985,
+    "authors": [
+       "John B. Egger"
+    ],
+    "file": "Bulletin-19",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Business Capital Gains and Dividends Taxes",
+       "Individual Capital Gains and Dividends Taxes"
+    ],
+    "tags": [
+       "Savings"
+    ]
+ },
+  {
+    "title": "The Packwood Tax Plan's Deceptive Phase-Outs",
+    "date": "June 9, 1986",
+    "year": 1986,
+    "authors": [
+       "Michael A. Schuyler"
+    ],
+    "file": "Bulletin-23",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Individual and Payroll Taxes",
+       "Individual Capital Gains and Dividends"
+    ],
+    "tags": [
+       "Pro-Growth",
+       "Savings"
+    ]
+ },
+  {
+    "title": "Packwood II And The Cost Of Capital",
+    "date": "June 17, 1986",
+    "year": 1986,
+    "authors": [
+       "Carlos E. Bonilla"
+    ],
+    "file": "Bulletin-24",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Business Capital Gains and Dividends Taxes",
+       "Individual Capital Gains and Dividends Taxes"
+    ],
+    "tags": [
+       "Pro-growth",
+       "neutrality"
+    ]
+ },
+  {
+    "title": "Income Redistribution Jeopardizes Tax Reform",
+    "date": "August 20, 1986",
+    "year": 1986,
+    "authors": [
+       "Michael Schuyler"
+    ],
+    "file": "Bulletin-25",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Taxes and the Economy"
+    ],
+    "tags": [
+       "Savings",
+       "Neutrality"
+    ]
+ },
+  {
+    "title": "Catastrophic Health Insurance is Bad Medicine",
+    "date": "March 18, 1987",
+    "year": 1987,
+    "authors": [
+       "Aldona Robbins"
+    ],
+    "file": "Bulletin-26",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Health Care",
+       "Healthcare",
+       "Health insurance tax"
+    ]
+ },
+  {
+    "title": "The U.S. Trade Deficit And U.S. Trade Policy",
+    "date": "June 8, 1987",
+    "year": 1987,
+    "authors": [
+       "J.D. Foster"
+    ],
+    "file": "Bulletin-28",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Trade Deficits",
+       "Inve"
+    ]
+ },
+  {
+    "title": "Social Security Build-up or Shake-down?",
+    "date": "June 12, 1987",
+    "year": 1987,
+    "authors": [
+       "Aldona Robbins"
+    ],
+    "file": "Bulletin-29",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Social Security"
+    ]
+ },
+  {
+    "title": "Florida's Tax on Services",
+    "date": "July 20, 1987",
+    "year": 1987,
+    "authors": [
+       "Michael A. Schuyler"
+    ],
+    "file": "Bulletin-30",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Excise Taxes"
+    ],
+    "tags": [
+       "Sales Tax"
+    ]
+ },
+  {
+    "title": "Lashing Gulliver to the Slow-Growth Deck",
+    "date": "October 6, 1987",
+    "year": 1987,
+    "authors": [
+       "J.D. Foster"
+    ],
+    "file": "Bulletin-31",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Union"
+    ]
+ },
+  {
+    "title": "The Principles of Mandated Benefits",
+    "date": "April 13, 1988",
+    "year": 1988,
+    "authors": [
+       "J.D. Foster"
+    ],
+    "file": "Bulletin-32",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Health Care",
+       "Union"
+    ]
+ },
+  {
+    "title": "TRA-86 And The Paper And Forest Products Industries: A Preliminary Analysis",
+    "date": "May 24, 1988",
+    "year": 1988,
+    "authors": [
+       "Michael Schuyler"
+    ],
+    "file": "Bulletin-33",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Taxes and The Economy"
+    ],
+    "tags": [
+       "Rate Reduction",
+       "Tax Reform Act Of 1986"
+    ]
+ },
+  {
+    "title": "Should Taxes Be Raised?",
+    "date": "June 24, 1988",
+    "year": 1988,
+    "authors": [
+       "Bill Modahl"
+    ],
+    "file": "Bulletin-34",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Taxes and The Economy"
+    ],
+    "tags": [
+       "Federal Budget",
+       "Federal Spending"
+    ]
+ },
+  {
+    "title": "A Survey Of American Business On American Foreign Tax Policy",
+    "date": "February 8, 1989",
+    "year": 1989,
+    "authors": [
+       "J.D. Foster"
+    ],
+    "file": "Bulletin-35",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Business Taxes"
+    ],
+    "tags": [
+       "Trade Deficits",
+       "International Tax Competitiveness"
+    ]
+ },
+  {
+    "title": "The Medicare Catastrophic Coverage Act: A Case For Repeal (Part I)",
+    "date": "July 18, 1989",
+    "year": 1989,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "Bulletin-36",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Health Care",
+       "Healthcare"
+    ]
+ },
+  {
+    "title": "The Medicare Catastrophic Coverage Act: A Case For Repeal (Part II)",
+    "date": "July 19, 1989",
+    "year": 1989,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Bulletin-37",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Health Care",
+       "Healthcare"
+    ]
+ },
+  {
+    "title": "The Medicare Catastrophic Coverage Act: A Case For Repeal (Part III)",
+    "date": "July 19, 1989",
+    "year": 1989,
+    "authors": [
+       "A. James Meigs"
+    ],
+    "file": "Bulletin-38",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Medicare",
+       "Federal Budget"
+    ]
+ },
+  {
+    "title": "\"Mandating Health Insurance\"",
+    "date": "July 8, 1987",
+    "year": 1987,
+    "authors": [
+       "Gary Robbins",
+       "Aldona Robbins"
+    ],
+    "file": "Bulletin-39",
+    "type": "IRET Bulletin",
+    "categories": [],
+    "tags": [
+       "Health Care",
+       "Healthcare",
+       "Health Insurance Tax"
+    ]
+ },
+  {
+    "title": "Capital Investment And Competition in the 1990s",
+    "date": "July 31, 1989",
+    "year": 1989,
+    "authors": [
+       "John Georges"
+    ],
+    "file": "Bulletin-40",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Business Capital Gains and Dividends Taxes",
+       "Business Tax Expenditures, Credits, and Deductions",
+       "Taxes and the Economy"
+    ],
+    "tags": [
+       "International Tax Competitiveness",
+       "Interest Rate",
+       "Inflation"
+    ]
+ },
+  {
+    "title": "Effects of Section 89 On The U.S. Economy: Highlights Of Survey Results",
+    "date": "August 2, 1989",
+    "year": 1989,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "Bulletin-41",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Business Taxes Compliance and Complexity"
+    ],
+    "tags": [
+       "Health Care",
+       "Healthcare"
+    ]
+ },
+  {
+    "title": "European Community 1992: The Program And Its Prospects",
+    "date": "August 25, 1989",
+    "year": 1989,
+    "authors": [
+       "Richard Kearns"
+    ],
+    "file": "Bulletin-42",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Excise Taxes",
+       "Value Added Taxes"
+    ],
+    "tags": [
+       "International Tax Competitiveness",
+       "International Tax Rules"
+    ]
+ },
+  {
+    "title": "European Community 1992: The Competitive Challenge",
+    "date": "August 27, 1989",
+    "year": 1989,
+    "authors": [
+       "Richard Kearns"
+    ],
+    "file": "Bulletin-43",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Business Taxes",
+       "Business Tax Expenditures, Credits, and Deductions"
+    ],
+    "tags": [
+       "International Tax Competitiveness",
+       "International Tax Rules"
+    ]
+ },
+  {
+    "title": "The Americans With Disabilities Act",
+    "date": "March 12, 1990",
+    "year": 1990,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "Bulletin-45",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Individual Compliance Costs and Complexity"
+    ],
+    "tags": []
+ },
+  {
+    "title": "What Deficits Don't Do",
+    "date": "July 6, 1990",
+    "year": 1990,
+    "authors": [
+       "Michael Schuyler"
+    ],
+    "file": "Bulletin-46",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Business Taxes",
+       "Taxes and The Economy"
+    ],
+    "tags": [
+       "Federal Budget",
+       "Federal Spending"
+    ]
+ },
+  {
+    "title": "Stock Transfer Taxes -- Sheer Quackery!",
+    "date": "August 9, 1990",
+    "year": 1990,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "Bulletin-47",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Individual Capital Gains and Dividends Taxes",
+       "Taxes and The Economy"
+    ],
+    "tags": [
+       "Pensions"
+    ]
+ },
+  {
+    "title": "The Effect of Payroll Tax Rate Reduction On Employment And GNP: Where The CBO Analysis Goes Wrong",
+    "date": "April 23, 1991",
+    "year": 1991,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "Bulletin-51",
+    "type": "IRET Bulletin",
+    "categories": [
+       "Individual and Payroll Taxes",
+       "Individual Income and Payroll Taxes"
+    ],
+    "tags": [
+       "Social Security",
+       "Retirement Savings"
+    ]
+ },
+  {
+    "title": "Do's and Don'ts for the National Economic Commission",
+    "date": "April 5, 1988",
+    "year": 1988,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "BYLN-061",
+    "type": "IRET Byline",
+    "categories": [
+       "Taxes and The Economy"
+    ],
+    "tags": [
+       "Federal Budget",
+       "Federal Spending"
+    ]
+ },
+  {
+    "title": "Do's and Don'ts for the National Economic Commission",
+    "date": "April 5, 1988",
+    "year": 1988,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "BYLN-062",
+    "type": "IRET Byline",
+    "categories": [],
+    "tags": [
+       "Federal Budget",
+       "Deficit"
+    ]
+ },
+  {
+    "title": "The Deficit's Disciplinary Effect",
+    "date": "April 14, 1988",
+    "year": 1988,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "BYLN-063",
+    "type": "IRET Byline",
+    "categories": [],
+    "tags": [
+       "Federal Budget",
+       "Deficit",
+       "Federal Spending"
+    ]
+ },
+  {
+    "title": "U.S. Foreign Tax Policy and U.S. Businesses Abroad: Preliminary Results of a Survey",
+    "date": "August 15, 1988",
+    "year": 1988,
+    "authors": [
+       "J.D. Foster"
+    ],
+    "file": "BYLN-064",
+    "type": "IRET Byline",
+    "categories": [
+       "Business Taxes"
+    ],
+    "tags": [
+       "International Tax Competitiveness",
+       "International Tax Rules",
+       "Trade Deficits"
+    ]
+ },
+  {
+    "title": "Message To The Fed: Fine Tuning Doesn't Work",
+    "date": "August 16, 1988",
+    "year": 1988,
+    "authors": [
+       "Michael A. Schuyler"
+    ],
+    "file": "BYLN-065",
+    "type": "IRET Byline",
+    "categories": [],
+    "tags": [
+       "Federal Reserve",
+       "Interest Rate",
+       "Inflation"
+    ]
+ },
+  {
+    "title": "Keep Uncle Sam Out Of Our Child-Care Centers",
+    "date": "August 17, 1988",
+    "year": 1988,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "BYLN-066",
+    "type": "IRET Byline",
+    "categories": [
+       "Individual and Payroll Taxes",
+       "Individual Income and Payroll Taxes"
+    ],
+    "tags": [
+       "Childcare Deduction"
+    ]
+ },
+  {
+    "title": "A $90 Billion Overstatement",
+    "date": "February 7, 1989",
+    "year": 1989,
+    "authors": [
+       "J.D. Foster"
+    ],
+    "file": "BYLN-067",
+    "type": "IRET Byline",
+    "categories": [],
+    "tags": [
+       "Federal Budget",
+       "Federal Spending",
+       "Inflation"
+    ]
+ },
+  {
+    "title": "Universal Health Care At Any Cost",
+    "date": "February 20, 1989",
+    "year": 1989,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "BYLN-068",
+    "type": "IRET Byline",
+    "categories": [
+       "Individual and Payroll Taxes",
+       "Individual Income and Payroll Taxes",
+       "Business Taxes"
+    ],
+    "tags": [
+       "Health Care Tax Deductions",
+       "Health Care",
+       "Health Insurance Tax"
+    ]
+ },
+  {
+    "title": "Misguided Solutions Of the S&L Crisis, #2: The Revised Treasury Plan",
+    "date": "March 1, 1989",
+    "year": 1989,
+    "authors": [
+       "Michael A. Schuyler"
+    ],
+    "file": "BYLN-069",
+    "type": "IRET Byline",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Excise Taxes"
+    ],
+    "tags": [
+       "International Tax Competitiveness",
+       "International Tax Rules",
+       "Neutrality"
+    ]
+ },
+  {
+    "title": "When the Fed Doesn't Understand Inflation, We're Really in Trouble",
+    "date": "March 1, 1989",
+    "year": 1989,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "BYLN-070",
+    "type": "IRET Byline",
+    "categories": [],
+    "tags": [
+       "Federal Reserve",
+       "Inflation",
+       "Interest Rates"
+    ]
+ },
+  {
+    "title": "Slash Medicare's Catastrophic Taxes",
+    "date": "May 25, 1989",
+    "year": 1989,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "BYLN-071",
+    "type": "IRET Byline",
+    "categories": [
+       "Individual and Payroll Taxes",
+       "Individual Income and Payroll Taxes"
+    ],
+    "tags": [
+       "Health Care",
+       "Health Insurance Tax",
+       "Healthcare"
+    ]
+ },
+  {
+    "title": "Conservation Through Taxation: A Lame Argument For Raising Federal Gasoline Taxes",
+    "date": "July 12, 1989",
+    "year": 1989,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "BYLN-072",
+    "type": "IRET Byline",
+    "categories": [
+       "Excise Taxes",
+       "Oil, Gas, and Transportation Taxes",
+       "Oil and Gas Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "No Excuse For Picking On PIKs and Zeros",
+    "date": "July 13, 1989",
+    "year": 1989,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "BYLN-073",
+    "type": "IRET Byline",
+    "categories": [],
+    "tags": [
+       "Interest Deduction",
+       "Tax Reform Act Of 1986",
+       "Neutrality"
+    ]
+ },
+  {
+    "title": "Limiting Investments Is No Way To Save S&Ls",
+    "date": "July 14, 1989",
+    "year": 1989,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "BYLN-074",
+    "type": "IRET Byline",
+    "categories": [],
+    "tags": [
+       "Moral Hazard",
+       "Investment"
+    ]
+ },
+  {
+    "title": "Don't Compromise Away A Capital Gains Tax Cuts",
+    "date": "August 23, 1989",
+    "year": 1989,
+    "authors": [
+       "Michael A. Schuyler"
+    ],
+    "file": "BYLN-075",
+    "type": "IRET Byline",
+    "categories": [
+       "Business Capital Gains and Dividends Taxes",
+       "Individual Capital Gains and Dividends"
+    ],
+    "tags": [
+       "Neutrality",
+       "Monetary Policy"
+    ]
+ },
+  {
+    "title": "Rostenkowski Capital Gains Proposal Is Less Than Meets The Eye",
+    "date": "August 25, 1989",
+    "year": 1989,
+    "authors": [
+       "Michael A. Schuyler"
+    ],
+    "file": "BYLN-076",
+    "type": "IRET Byline",
+    "categories": [
+       "Business Capital Gains and Dividends Taxes",
+       "Individual Capital Gains and Dividends",
+       "Taxes and the Economy"
+    ],
+    "tags": [
+       "Neutrality",
+       "Investment",
+       "Indexing"
+    ]
+ },
+  {
+    "title": "Bentsen's IRA Leads Middle-Income Savers Down A Primrose Path",
+    "date": "September 21, 1989",
+    "year": 1989,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "BYLN-078",
+    "type": "IRET Byline",
+    "categories": [
+       "Business Capital Gains and Dividends Taxes",
+       "Individual Capital Gains and Dividends",
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "IRA",
+       "Roth IRA"
+    ]
+ },
+  {
+    "title": "Cut The Capital Gains Tax To Help All Income Classes",
+    "date": "September 22, 1989",
+    "year": 1989,
+    "authors": [
+       "Michael Schuyler"
+    ],
+    "file": "BYLN-079",
+    "type": "IRET Byline",
+    "categories": [
+       "Business Capital Gains and Dividends Taxes",
+       "Individual Capital Gains and Dividends",
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "Pro-Growth",
+       "Job Creation",
+       "Neutrality"
+    ]
+ },
+  {
+    "title": "Pension Funds Don't Need Investment Advice From Washington",
+    "date": "April 4, 1990",
+    "year": 1990,
+    "authors": [
+       "Michael Schuyler"
+    ],
+    "file": "BYLN-080",
+    "type": "IRET Byline",
+    "categories": [
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "IRA",
+       "Pensions",
+       "Retirement Savings"
+    ]
+ },
+  {
+    "title": "All Balanced Budgets Aren't Created Equal",
+    "date": "May 21, 1990",
+    "year": 1990,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "BYLN-081",
+    "type": "IRET Byline",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Individual Income and Payroll Taxes",
+       "Value Added Taxes",
+       "Oil, Gas, and Transportation Taxes",
+       "Oil and Gas Taxes"
+    ],
+    "tags": [
+       "crowd out",
+       "Federal Spending",
+       "Federal Budget"
+    ]
+ },
+  {
+    "title": "It's No Accident Tax Hikes Collect Less Revenue Than Expected",
+    "date": "May 21, 1990",
+    "year": 1990,
+    "authors": [
+       "Michael Schuyler"
+    ],
+    "file": "BYLN-082",
+    "type": "IRET Byline",
+    "categories": [
+       "Business Taxes",
+       "Corporate Income Tax",
+       "Individual and Payroll Taxes"
+    ],
+    "tags": [
+       "Tax Reform Act Of 1986"
+    ]
+ },
+  {
+    "title": "Balancing the Budget at Any Cost--To the Taxpayers, That Is",
+    "date": "May 21, 1990",
+    "year": 1990,
+    "authors": [
+       "Roy Cordato"
+    ],
+    "file": "BYLN-083",
+    "type": "IRET Byline",
+    "categories": [
+       "Taxes and the Economy",
+       "Individual Income and Payroll Taxes",
+       "Corporate Income Tax"
+    ],
+    "tags": [
+       "Investment",
+       "Pro-Growth"
+    ]
+ },
+  {
+    "title": "Bribing the Fed with a Tax Hike?",
+    "date": "May 21, 1990",
+    "year": 1990,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "BYLN-084",
+    "type": "IRET Byline",
+    "categories": [
+       "Taxes and the Economy"
+    ],
+    "tags": [
+       "Interest Rate",
+       "Federal Reserve",
+       "crowd out"
+    ]
+ },
+  {
+    "title": "Sequestration: The Teeth In Gramm-Rudman-Hollings",
+    "date": "June 18, 1990",
+    "year": 1990,
+    "authors": [
+       "Roy E. Cordato"
+    ],
+    "file": "BYLN-085",
+    "type": "IRET Byline",
+    "categories": [
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "crowd out",
+       "Services"
+    ]
+ },
+  {
+    "title": "Hands Off Tax Indexing!",
+    "date": "June 18, 1990",
+    "year": 1990,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "BYLN-086",
+    "type": "IRET Byline",
+    "categories": [
+       "Individual Tax Expenditures, Credits, and Deductions",
+       "Business Tax Expenditures, Credits, and Deductions",
+       "Business Expenditures",
+       "Business Property Tax"
+    ],
+    "tags": [
+       "Tax Reform Act Of 1986",
+       "Indexing"
+    ]
+ },
+  {
+    "title": "H.R. 5: Union Gain, America's Loss",
+    "date": "March 11, 1991",
+    "year": 1991,
+    "authors": [
+       "Norman B. Ture",
+       "Roy E. Cordato"
+    ],
+    "file": "BYLN-096",
+    "type": "IRET Byline",
+    "categories": [
+       "Business Expenses"
+    ],
+    "tags": [
+       "Union"
+    ]
+ },
+  {
+    "title": "Senate Tax Plan: Circuses Instead of Bread",
+    "date": "March 9, 1992",
+    "year": 1992,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "BYLN-100",
+    "type": "IRET Byline",
+    "categories": [
+       "Credits",
+       "Corporate Income Tax",
+       "Individual Income and Payroll Taxes"
+    ],
+    "tags": [
+       "Tax Reform Act Of 1986",
+       "EITC",
+       "International Tax Competitiveness"
+    ]
+ },
+  {
+    "title": "The Folly of 'Family Friendly' Tax Policy",
+    "date": "April 9, 2008",
+    "year": 2008,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "Child credit - Entin op ed",
+    "type": "Op-Ed",
+    "categories": [
+       "Credits",
+       "Individual and Payroll Taxes"
+    ],
+    "tags": [
+       "Bush Tax Cuts",
+       "CTC"
+    ]
+ },
+  {
+    "title": "Estate and Gift Taxes: Economic Issues",
+    "date": "July 7, 2000",
+    "year": 2000,
+    "authors": [
+       "Jane G. Gravelle",
+       "Steven Maguire"
+    ],
+    "file": "CRS - Death Tax - Estate and Gift Tax Economic Issues - Gravelle -2000",
+    "type": "Congressional Advisory",
+    "categories": [
+       "Estate and Gift Taxes",
+       "Estate and Gift Tax"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Issues in International Corporate Taxation: The 2017 Revision",
+    "date": "May 1, 2018",
+    "year": 2018,
+    "authors": [
+       "Jane G. Gravelle",
+       "Donald J. Marples"
+    ],
+    "file": "CRS Issues in International Taxation 2017 revision Gravelle Marples",
+    "type": "Congressional Advisory",
+    "categories": [
+       "Business Taxes",
+       "Business Expenditures",
+       "Corporate Income Taxes"
+    ],
+    "tags": [
+       "International Tax Competitiveness",
+       "International Tax Rules"
+    ]
+ },
+  {
+    "title": "Killing the Death Tax Would Resurrect Growth",
+    "date": "October 12, 2016",
+    "year": 2016,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "death tax op ed",
+    "type": "Op-Ed",
+    "categories": [
+       "Estate and Gift Taxes",
+       "Estate and Gift Tax"
+    ],
+    "tags": [
+       "Pro-Growth"
+    ]
+ },
+  {
+    "title": "The Effects of Tax Policy on Capital Formation",
+    "year": 1977,
+    "authors": [
+       "Norman B. Ture",
+       "B. Kenneth Sanden"
+    ],
+    "file": "Effect of Tax Policy on Capital Formation",
+    "type": "Economic Report",
+    "categories": [
+       "Business Taxes",
+       "Cost Recovery",
+       "Corporate Income Tax"
+    ],
+    "tags": []
+ },
+  {
+    "title": "IRET Conference: Tax Restructuring Alternatives",
+    "date": "September 18, 1984",
+    "year": 1984,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "IRET Conference on Tax Restructuring Alternatives - 1984",
+    "type": "Presentation Transcript",
+    "categories": [],
+    "tags": []
+ },
+  {
+    "title": "Save, America: A Primer on U.S. Saving and Its Effect on Economic Health",
+    "year": 1989,
+    "authors": [
+       "Norman B. Ture",
+       "Stephen J. Entin"
+    ],
+    "file": "Save America - Ture - Entin - 1989",
+    "type": "IRET Study",
+    "categories": [
+       "Individual and Consumption Taxes",
+       "Individual Income and Payroll Taxes",
+       "Individual Capital Gains and Dividends Taxes",
+       "Taxes and The Economy"
+    ],
+    "tags": [
+       "Retirement Savings"
+    ]
+ },
+  {
+    "title": "Taxing Talk: The Telephone Excise Tax and Universal Service Fees",
+    "date": "March 1, 2000",
+    "year": 2000,
+    "authors": [
+       "Stephen J. Entin"
+    ],
+    "file": "Taxing Talk - Background Paper No. 34",
+    "type": "Background Paper",
+    "categories": [
+       "Individual and Consumption Taxes",
+       "Excise Taxes"
+    ],
+    "tags": [
+       "Telephone Taxes"
+    ]
+ },
+  {
+    "title": "The Impact, Shifting, and Incidence of an Increase in the Gasoline Excise Tax",
+    "year": 1992,
+    "authors": [
+       "Norman B. Ture",
+       "Carlos Bonilla",
+       "Stephen J. Entin"
+    ],
+    "file": "The Impact Shifting and Incidence of an Increase in the Gasoline Excise Tax - Ture - Bonilla - Entin",
+    "type": "IRET Study",
+    "categories": [
+       "Oil and Gas Taxes",
+       "Oil, Gas, and Transportation Taxes",
+       "Excise Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Effects of 10-5-3 Capital Recovery Systems on the Economy and Federal Tax Revenues",
+    "date": "June 18, 1979",
+    "year": 1979,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - 10-5-3 Analysis - 1979",
+    "type": "IRET Study",
+    "categories": [
+       "Cost Recovery"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Accelerated Depreciation",
+    "year": 1979,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Accelerated Depreciation",
+    "type": "IRET Study",
+    "categories": [
+       "Cost Recovery"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Achieving Prosperity: Do's and Dont's of Fiscal and Monetary Policy",
+    "date": "August 1, 1992",
+    "year": 1992,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Achieving Prosperity - Do's and Don't's of Fiscal and Monetary Policy",
+    "type": "Journal Article",
+    "categories": [],
+    "tags": [
+       "Monetary Policy"
+    ]
+ },
+  {
+    "title": "An Industrial Policy Tax System?",
+    "date": "April 17, 1993",
+    "year": 1993,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - An Industrial Policy Tax System - 1993",
+    "type": "Presentation Transcript",
+    "categories": [
+       "Business Taxes",
+       "Individual and Consumption Taxes"
+    ],
+    "tags": [
+       "Industrial Policy"
+    ]
+ },
+  {
+    "title": "Balancing Public and Private Retirement Plans",
+    "date": "November 30, 1971",
+    "year": 1971,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Balancing Public and Private Retirement Plans - Tax Fondation",
+    "type": "Presentation Transcript",
+    "categories": [
+       "Individual Income and Payroll Taxes"
+    ],
+    "tags": [
+       "Retirement Savings",
+       "Pensions",
+       "Social Security"
+    ]
+ },
+  {
+    "title": "Bill Clinton v. The U.S. Economy",
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Bill Clinton v. the U.S. Economy",
+    "type": "IRET Study",
+    "categories": [
+       "Individual Income and Payroll Taxes",
+       "Alternative Minimum Tax",
+       "High-Income Taxpayers, Progressivity, and Inequality"
+    ],
+    "tags": [
+       "Progressivity"
+    ]
+ },
+  {
+    "title": "Can Government Economize: An Appraisal of the 1998 Budget Resolution",
+    "year": 1998,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Can Government Economize - 1998 Budget Resolution",
+    "type": "IRET Study",
+    "categories": [
+       "Individual Income and Payroll Taxes",
+       "Business Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "The Flat Tax: A Guide to Constructive Tax Restructuring",
+    "year": 1994,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Commonsense Flat Tax piece plus Armey - fall 1994",
+    "type": "Journal Article",
+    "categories": [
+       "Individual Income and Payroll Taxes",
+       "Corporate Income Tax"
+    ],
+    "tags": [
+       "Flat Tax"
+    ]
+ },
+  {
+    "title": "Economic Depreciation: The Impossible Dream",
+    "date": "June 18, 1979",
+    "year": 1979,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Economic Depreciation The Impossible Dream - Western Econ Assn Conf 1979",
+    "categories": [
+       "Cost Recovery",
+       "Business Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "The Economic Effects of Tax Changes: A Neoclassical Analysis",
+    "date": "December 17, 1980",
+    "year": 1980,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Economic Effects of Tax Changes - JEC Special Study on Economic Change",
+    "type": "JEC Study",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Taxes and The Economy"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Health Care Reform: An Economic Impact Statement",
+    "date": "May 24, 1994",
+    "year": 1994,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Health Care Reform - An Economic Impact Statement - 1994",
+    "type": "IRET Study",
+    "categories": [],
+    "tags": [
+       "Health Care"
+    ]
+ },
+  {
+    "title": "Neutrality in the Taxation of Foreign Source Income",
+    "date": "November 17, 1994",
+    "year": 1994,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Neutrality in the Taxation of Foreign Source Income - 1994",
+    "type": "Presentation Transcript",
+    "categories": [
+       "Business Taxes",
+       "Corporate Income Taxes"
+    ],
+    "tags": [
+       "Neutrality"
+    ]
+ },
+  {
+    "title": "Real Crowding Out",
+    "date": "September 26, 1975",
+    "year": 1975,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Real Crowding Out - 1975",
+    "type": "Presentation Transcript",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Taxes and The Economy"
+    ],
+    "tags": [
+       "crowd out"
+    ]
+ },
+  {
+    "title": "Restructuring the Federal Tax System",
+    "year": 1993,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Restructuring the Federal Tax System",
+    "type": "IRET Study",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Individual Income and Payroll Taxes",
+       "Corporate Income Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Statement to the Subcommittee on Financial Markets, Committee on Finance",
+    "date": "September 24, 1973",
+    "year": 1973,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - statement - Sen Subcomm on Financial Markets - 1973",
+    "type": "Testimony",
+    "categories": [
+       "Individual Capital Gains and Dividends Taxes"
+    ],
+    "tags": [
+       "Retirement Savings"
+    ]
+ },
+  {
+    "title": "Statement to the Subcommittee on Taxation and Debt Management, United States Senate, on Indexing Tax Laws",
+    "date": "April 24, 1978",
+    "year": 1978,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Statement to W&M Tax Subcomm - Indexing Tax Laws",
+    "type": "Testimony",
+    "categories": [],
+    "tags": [
+       "Inflation",
+       "Indexing"
+    ]
+ },
+  {
+    "title": "The Tax Bias Against Saving",
+    "date": "November 16, 1976",
+    "year": 1976,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Tax Bias Against Saving - NTA 1976",
+    "type": "Presentation Transcript",
+    "categories": [
+       "Alternative Minimum Tax",
+       "Individual Capital Gains and Dividends Taxes",
+       "Cost Recovery",
+       "Retirement Savings"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Tax Expenditures: A Critical Appraisal",
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Tax Expenditures - A Critical Appraisal",
+    "type": "IRET Study",
+    "categories": [
+       "Business Tax Expenditures, Credits, and Deductions",
+       "Individual Tax Expenditures, Credits, and Deductions"
+    ],
+    "tags": []
+ },
+  {
+    "title": "The Tax Reform Agenda: Goals and Criteria",
+    "date": "Ocotber 30, 1991",
+    "year": 1991,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Tax Reform Agenda - NFIB Conf 1991",
+    "type": "Presentation Transcript",
+    "categories": [
+       "Taxes and Economic Growth"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Taxes, Growth, and Employment: Statement to the Task Force on Tax Policy and Job Creation, House Republican Research Committee",
+    "date": "March 19, 1992",
+    "year": 1992,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Taxes Growth and Employment - 1992 - House Republican Research CommTask Force",
+    "type": "Testimony",
+    "categories": [
+       "Taxes and Economic Growth"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Taxes, Spending, and Budget Deficits",
+    "date": "December 6, 1991",
+    "year": 1991,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Taxes Spending and Budget Deficits - 1991 ALEC Conf",
+    "type": "Presentation Transcript",
+    "categories": [
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "Federal Budget",
+       "Federal Spending"
+    ]
+ },
+  {
+    "title": "Taxing Foreign Source Income",
+    "date": "November 1, 1974",
+    "year": 1974,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Taxing Foreign Source Income - 1974",
+    "type": "IRET Study",
+    "categories": [
+       "Business Taxes",
+       "Corporate Income Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "The Administration's Tax Reform Proposals & Capital Formation: Testimony to The Committee on Finance, United State Senate",
+    "date": "July 26, 1985",
+    "year": 1985,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - testimony - Administration's Tax Reform Proposals & Capital Formation - Sen Fin July 26, 1985 - Copy",
+    "type": "Testimony ",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Business Taxes",
+       "Individual Income and Payroll Taxes"
+    ],
+    "tags": [
+       "Tax Reform Act Of 1986"
+    ]
+ },
+  {
+    "title": "Graduation of Tax on Capital Gains with Length of Holding Period: Testimony to the Subcommittee on Financial Markets, Committee on Finance, United States Senate",
+    "date": "February 22, 1974",
+    "year": 1974,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - testimony - Graduation of Tax on Cap Gains by Holding Period - Sen Subcomm on Financial Mkts 1974",
+    "type": "Testimony ",
+    "categories": [
+       "Individual Capital Gains and Dividends Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Enhancing America's Competitiveness: Testimony to the Committee on Finance, United States Senate",
+    "date": "May 15, 1992",
+    "year": 1992,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - testimony - Senate Finance - Enhancing America's Competitiveness",
+    "type": "Testimony ",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Business Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "Tax Policy, Saving, and Capital Formation: Testimony to the Committee on Finance, United States Senate",
+    "date": "April 2, 1976",
+    "year": 1976,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - testimony - Senate Finance - Tax Policy Saving and Capital Formation",
+    "type": "Testimony ",
+    "categories": [
+       "Taxes and Economic Growth",
+       "Individual Capital Gains and Dividends Taxes"
+    ],
+    "tags": [
+       "Retirement Savings"
+    ]
+ },
+  {
+    "title": "Budget and Tax Policy for 1992 and Beyond: Testimony to the Committee on Ways and Means, U.S. House of Representatives",
+    "date": "April 9, 1991",
+    "year": 1991,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - testimony - W&M - Budget  and Tax Policy for 1992 and Beyond",
+    "type": "Testimony ",
+    "categories": [
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "Federal Budget"
+    ]
+ },
+  {
+    "title": "Foreign Income Tax Rationalization and Simplification Act of 1992: Testimony to the Committee on Ways and Means, U.S. House of Representatives",
+    "date": "July 22, 1992",
+    "year": 1992,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - testimony - W&M - Foreign Income Tax Rationalization and Simplification Act of 1992",
+    "type": "Testimony ",
+    "categories": [
+       "Business Tax Expenditures, Credits, and Deductions"
+    ],
+    "tags": []
+ },
+  {
+    "title": "The U.S. Economy and Middle-Class Tax Relief",
+    "date": "February 6, 1992",
+    "year": 1992,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - testimony W&M - US Economy and Middle Class Tax Relief",
+    "type": "Testimony",
+    "categories": [
+       "Individual Income and Payroll Taxes",
+       "Taxes and Economic Growth",
+       "Cost Recovery"
+    ],
+    "tags": []
+ },
+  {
+    "title": "New Directions in Federal Tax Policy for the 1980s — The Accelerated Cost Recovery System: An Evaluation of the 1981 and 1982 Cost Recovery Provisions",
+    "date": "October 1, 1983",
+    "year": 1983,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - The Accelerated Cost Recovery System - Chptr 5 - New Directions In Tax Policy - ACCF",
+    "type": "Book",
+    "categories": [
+       "Cost Recovery",
+       "Business Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "The Flat Tax, Again",
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - The Flat Tax Again",
+    "type": "IRET Study",
+    "categories": [
+       "Individual Income and Payroll Taxes"
+    ],
+    "tags": [
+       "Flat Tax",
+       "Progressivity"
+    ]
+ },
+  {
+    "title": "The Uniform Business Tax (UBT): Questions and Answers",
+    "date": "May 14, 1991",
+    "year": 1991,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Uniform Business Tax - Q&A",
+    "type": "IRET Study",
+    "categories": [
+       "Value Added Taxes"
+    ],
+    "tags": [
+       "Uniform Business Tax"
+    ]
+ },
+  {
+    "title": "Technical Explanation of the Uniform Business Tax Act of 1991",
+    "date": "January 10, 1991",
+    "year": 1991,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - Uniform Business Tax Act 1991- Technical Explanation",
+    "type": "IRET Study",
+    "categories": [
+       "Value Added Taxes"
+    ],
+    "tags": [
+       "Uniform Business Tax"
+    ]
+ },
+  {
+    "title": "The Value Added Tax: An Assessment for Retailers",
+    "date": "May 8, 1980",
+    "year": 1980,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - VAT Assessment for Retailers",
+    "type": "Presentation Transcript",
+    "categories": [
+       "Value Added Taxes"
+    ],
+    "tags": []
+ },
+  {
+    "title": "What Really Does the Crowding Out?",
+    "date": "September 14, 1983",
+    "year": 1983,
+    "authors": [
+       "Norman B. Ture"
+    ],
+    "file": "Ture - WSJ op ed - What Really Does the Crowding Out - Sept. 14, 1983 - Copy",
+    "type": "Op-Ed",
+    "categories": [
+       "Taxes and Economic Growth"
+    ],
+    "tags": [
+       "Retirement Savings"
+    ]
+ }
 ]
