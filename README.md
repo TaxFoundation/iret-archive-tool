@@ -49,4 +49,16 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Update Algolia Search Index  
 
-When new documents are uploaded, they must be indexed on the Algolia search admin dashboard. [Go to Algolia Search Panel](https://www.algolia.com/apps/F69DU4TWEG/explorer/browse/iret?searchMode=search) and click the 'Upload file' button under the 'Add records' dropdown select. Upload a csv with all new document meta data. This will add all new documents to the index. Afterwards, append iret.csv in the src folder of the repository with the new csv. replace iret.json with a new json file generated from the appended csv. Theses files serve as a backup of the Algolia index. 
+When new documents are uploaded, they must be indexed on the Algolia search admin dashboard. 
+
+### Convert .csv to valid .json
+
+Convert the provided .csv with document meta data into a json array and trim empty strings from authors, categories, and tags. For a larger update, it may be worth writing a script to do this automatically. 
+
+### upload metadata 
+
+[Go to Algolia Search Panel](https://www.algolia.com/apps/F69DU4TWEG/explorer/browse/iret?searchMode=search) and click the 'Upload file' button under the 'Add records' dropdown select. Upload the trimmed json file. This will add all new documents to the index. Afterwards, append the new documents metadata to iret.json in the src directory of the repository. Convert the newly appened iret.json to a csv and replace iret.csv with the new file. These files serve as a backup of the data indexed in Algolia.
+
+### note on file extensions
+
+The file extension of all documents added to the archives must be ".PDF", case sensitive, in all caps. The use of ".pdf" or any other variant will result in a server error due to unix based systems, such as the linux server, having case sensitive file extensions. 
