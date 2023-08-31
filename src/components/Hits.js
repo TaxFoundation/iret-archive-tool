@@ -34,15 +34,15 @@ export const StyledHits = styled(Hits)`
     &:first-child {
       > div {
         border-top: 1px solid #ccc;
-        border-top-left-radius: 4px;
-        border-top-right-radius: 4px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
       }
     }
 
     &:last-child {
       > div {
-        border-bottom-left-radius: 4px;
-        border-bottom-right-radius: 4px;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
       }
     }
   }
@@ -68,7 +68,7 @@ export const StyledHit = styled.div`
   }
 
   em.ais-Highlight-highlighted {
-    background-color: #0094ff;
+    background-color: #235485;
     color: #fff;
   }
 `;

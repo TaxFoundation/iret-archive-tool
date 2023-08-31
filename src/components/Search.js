@@ -13,25 +13,25 @@ const Search = styled(SearchBox)`
   input[type='search'] {
     background: #fff;
     border: solid 1px #ccc;
-    border-radius: 4px;
-    font-family: 'Lato', sans-serif;
+    border-radius: 0px;
+    font-family: 'Roboto Flex', sans-serif;
     font-size: 1rem;
     padding: 0.5rem;
 
     &:focus {
-      border: solid 1px #0094ff;
+      border: solid 1px #235485;
       outline: none;
     }
   }
 
   button[type='submit'],
   button[type='reset'] {
-    background: #0094ff;
-    border: solid 1px #0094ff;
-    border-radius: 4px;
+    background: #235485;
+    border: solid 1px #235485;
+    border-radius: 0px;
     cursor: pointer;
     display: block;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
     font-size: 1rem;
     padding: 0.5rem;
 

@@ -16,7 +16,7 @@ const StyledPagination = styled(Pagination)`
 
   a,
   span.ais-Pagination-link {
-    border-radius: 4px;
+    border-radius: 0px;
     border: solid 1px #ccc;
     text-decoration: none;
     padding: 0.5rem 0.8rem;
@@ -31,13 +31,13 @@ const StyledPagination = styled(Pagination)`
 
     &.ais-Pagination-link--selected {
       color: white;
-      background: #0094ff;
-      border-radius: 4px;
-      border: 1px solid #0094ff;
+      background: #235485;
+      border-radius: 0px;
+      border: 1px solid #235485;
       transition: all 0.25s ease-out;
 
       &:hover {
-        background: #0094ff;
+        background: #235485;
         cursor: default;
       }
     }

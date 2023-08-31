@@ -10,15 +10,15 @@ import Refinements from './components/Refinements';
 import { Entry, StyledHits } from './components/Hits';
 import Pagination from './components/Pagination';
 
-const appId = 'F69DU4TWEG';
-const searchKey = '38ec08d7e6bb2135f28503d3a806db71';
+const appId = '8HHIUY3MSH';
+const searchKey = '10b98b60a94efec51b7fb5e27f7174c8';
 const indexName = 'iret';
 
 const searchClient = algoliasearch(appId, searchKey);
 
 const StyledApp = createGlobalStyle`
   html, body {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
     margin: 0;
     padding: 0;
   }

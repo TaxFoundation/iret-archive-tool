@@ -4,7 +4,7 @@ import { connectRefinementList } from 'react-instantsearch-dom';
 
 const StyledSelect = styled.select`
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 0px;
   padding: 0.5rem;
   -webkit-appearance: none;
   -moz-appearance: none;
@@ -16,12 +16,12 @@ const StyledSelect = styled.select`
   width: 100%;
 
   &:focus {
-    border: solid 1px #0094ff;
+    border: solid 1px #235485;
     outline: none;
   }
 
   option {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Flex', sans-serif;
     font-size: 0.9rem;
   }
 `;
