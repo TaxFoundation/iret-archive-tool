@@ -5,7 +5,7 @@ import Refinement from './Refinement';
 
 const StyledRefinements = styled.div`
   background-color: #e6f4ff;
-  border-radius: 4px;
+  border-radius: 0px;
   display: grid;
   grid-gap: 1rem;
   grid-template-areas:
@@ -27,12 +27,12 @@ const StyledRefinements = styled.div`
 `;
 
 const Dropdown = styled.button`
-  background-color: #0094ff;
-  border: 1px solid #0094ff;
-  border-radius: 4px;
+  background-color: #235485;
+  border: 1px solid #235485;
+  border-radius: 0px;
   color: #fff;
   cursor: pointer;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto Flex', sans-serif;
   font-size: 0.9rem;
   margin-bottom: 1rem;
   padding: 0.5rem;

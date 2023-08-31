@@ -16,7 +16,7 @@ const Link = styled.a`
 const StyledFeature = styled.li`
   background-color: #fff;
   border: 1px solid #ccc;
-  border-radius: 4px;
+  border-radius: 0px;
   color: #333;
   display: grid;
   grid-template: auto / minmax(50px, 150px) 1fr;
